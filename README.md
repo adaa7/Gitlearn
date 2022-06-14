@@ -212,4 +212,4 @@ ssh-keygen -t rsa #rsa是加密
 
 ![image-20220614155726988](https://s2.loli.net/2022/06/14/AQNnzpmwF7BiRJ9.png)
 
-![image-20220614155947761](C:/Users/10062/AppData/Roaming/Typora/typora-user-images/image-20220614155947761.png)
+![image-20220614155947761](https://s2.loli.net/2022/06/14/e3C4pS975sXFq6V.png)
